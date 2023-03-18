@@ -1,4 +1,4 @@
-# Basic_Coding_of_Node_JS
+# Basic Coding of Node JS
 
 In this repository there are six lessons for basic coding of Node JS.
 
