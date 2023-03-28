@@ -1,6 +1,6 @@
 # Basic Coding of Node JS
 
-In this repository there are six lessons for basic coding of Node JS.
+In this repository there are basic coding of Node JS including file system, os, HTTP server, request, response, package & routing.
 
 ### Lesson1: File System
 
